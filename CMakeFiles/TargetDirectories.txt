@@ -1,0 +1,7 @@
+/Users/michael/Library/CloudStorage/OneDrive-WesternReserveAcademy/Pioneer Academics/wfc/CMakeFiles/edit_cache.dir
+/Users/michael/Library/CloudStorage/OneDrive-WesternReserveAcademy/Pioneer Academics/wfc/CMakeFiles/rebuild_cache.dir
+/Users/michael/Library/CloudStorage/OneDrive-WesternReserveAcademy/Pioneer Academics/wfc/CMakeFiles/mcts.dir
+/Users/michael/Library/CloudStorage/OneDrive-WesternReserveAcademy/Pioneer Academics/wfc/CMakeFiles/check.dir
+/Users/michael/Library/CloudStorage/OneDrive-WesternReserveAcademy/Pioneer Academics/wfc/CMakeFiles/rand.dir
+/Users/michael/Library/CloudStorage/OneDrive-WesternReserveAcademy/Pioneer Academics/wfc/CMakeFiles/graph.dir
+/Users/michael/Library/CloudStorage/OneDrive-WesternReserveAcademy/Pioneer Academics/wfc/CMakeFiles/ua.dir
